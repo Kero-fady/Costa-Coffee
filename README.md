@@ -44,5 +44,10 @@ Costa-Coffee is a project aimed at analyzing sales data for Costa Coffee. The pr
 - Microsoft Excel to view the `.xlsx` file.
 - Microsoft Power BI to open and interact with the `.pbix` file.
 
+## How to Install
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Kero-fady/Costa-Coffee.git
+
 ## License
 This project is licensed under the MIT License.
