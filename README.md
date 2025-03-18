@@ -30,7 +30,7 @@ Costa-Coffee is a project aimed at analyzing sales data for Costa Coffee. The pr
 
 ## Screenshots
 ### Sales Data in Excel
-![Sales Data in Excel](photo.png)
+![Sales Data in Excel](5965227279837676958.jpg)
 
 ### Power BI Dashboard
 ![Power BI Dashboard](path/to/screenshot2.png)
