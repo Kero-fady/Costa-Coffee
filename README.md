@@ -29,11 +29,9 @@ Costa-Coffee is a project aimed at analyzing sales data for Costa Coffee. The pr
 2. Use `project three.pbix` with Power BI to explore the visualizations and insights derived from the sales data.
 
 ## Screenshots
-### Sales Data in Excel
-![Sales Data in Excel](5965227279837676958.jpg)
 
 ### Power BI Dashboard
-![Power BI Dashboard](path/to/screenshot2.png)
+![Power BI Dashboard](5965227279837676958.jpg)
 
 ## Charts Description
 - **Sales Over Time**: A line chart showing the trend of sales over different time periods.
