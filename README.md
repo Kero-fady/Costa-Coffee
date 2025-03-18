@@ -30,10 +30,17 @@ Costa-Coffee is a project aimed at analyzing sales data for Costa Coffee. The pr
 
 ## Screenshots
 ### Sales Data in Excel
-![Sales Data in Excel](path/to/screenshot1.png)
+![Sales Data in Excel](photo.png)
 
 ### Power BI Dashboard
 ![Power BI Dashboard](path/to/screenshot2.png)
+
+## Charts Description
+- **Sales Over Time**: A line chart showing the trend of sales over different time periods.
+- **Top Selling Products**: A bar chart displaying the top-selling products based on total sales.
+- **Sales by Category**: A pie chart illustrating the distribution of sales across different product categories.
+- **Customer Demographics**: A set of charts showing the age and gender distribution of customers.
+- **Store Performance**: A bar chart comparing the performance of different stores based on total sales.
 
 ## Requirements
 - Microsoft Excel to view the `.xlsx` file.
